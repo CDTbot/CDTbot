@@ -17,36 +17,36 @@ Detailed step-by-step operations instructions, with images, can be found at:
 6. Run!
 7. If you would like to save your results, select "Download" and then select a location for the program to download an .xlsx file to. 
 
-### Installation
+## Installation
 Detailed step-by-step installation instructions can be found in the Matlab Runtime Readme.txt included in the download files. 
 
 To download, download the MATLAB app installer and follow the command prompts. If you do not have MATLAB Runtime previously installed, expect the download to take slightly longer (~5 mins). Make sure to tick the "Create Desktop Shortcut" box for easy access. 
 
-### Detailed Code Explanation
+## Detailed Code Explanation
 The code analyses the .csv file provided by BioSigRZ. In said .csv file, there are 2048 columns of acoustic data, going from 0 hz to 97656.3 hz. The bin size of each data column is then determined by dividing the total frequency (97656.3) by the number of columns (2048). The .csv file also gives the hz at which the DP will be located at for each frequency. That value is then divided by the bin size, and rounded to the nearest whole number, to arrive at the column of the given DP. Then, 10 values from either side of the DP, not including the 2 values directly adjacent to the DP, are averaged to create the noise floor. The standard deviation of these 20 values is also calculated. If the DP value is 2 times greater than or equal to the standard deviation above the noise floor (>= ((2*std.dev.)+ noise floor avgerage)), then the DP is considered statistically significant, and assigned a value of 1. If this threshold is not met, the DP is not considered statistically significant, and is assigned a value of 0.
 
 The majority of the rest of the raw code deals with GUI design, handling user input error, and fiddling with MATLAB's labrynthine data type conversions. Raw code can be found linked below. 
 
-### Known Bugs and Errors
+## Known Bugs and Errors
 - RemoveSheet123 does not work on Mac systems. The default 3 sheets will precede the Data and Metadata sheets on Mac. Fix will be implemented when the Stanford CSBF releases the MATLAB 2019b licence to its users. Matlab 2019b does not create the default 3 sheets on Excel when using writetable() or writecell(), eliminating the need for the RemoveSheet123 function. 
 
-### Motivation
+## Motivation
 The Core Facilities team was pondering how to quickly and accurately determine DP when the possibility of a statistical package was tossed around. After a week of proof-of-concept testing, app development began in earnest. We are motivated to reduce user bias in DPOAE data analysis, as well as saving hard-working scientists around the world some time. 
 
-### Build Status
+## Build Status
 Development Begins - November 2019
 Beta Testing - December 2019
 
-### Contribute
+## Contribute
 Please email all bugs / content suggestions / improvements to mbartho@stanford.edu. Thank you for your help! 
 
 If you used this program in your research, please cite it! We would love nothing more than to see it used out in the wild. 
 
-### Source Code
+## Source Code
 Source code can be found at: 
 
-### Credits
-#Dev Team:
+## Credits
+# Dev Team:
 	Murray Bartho
 	Patrick Atkinson, Ph.D.
 	Anthony Ricci, Ph.D.
@@ -63,10 +63,12 @@ Source code can be found at:
 	Stanford Computational Services and Bioinformatics Facility (CSBF)
 	Iconsflow.com
 
-### Licenses
+## Licenses
 MATLAB by Mathworks 2009b, 2010a and 2019a were used in the development of this application. 
 MATLAB licensing was acquired through the academic institutional license provided by Stanford CSBF. 
 
 FREE Icon Maker by Iconsflow.com was used to develop the app icon. 
 The free subscription plan was used to develop the Headphone Mouse icon, to be used in non-commercial academic research or other not-for-profit scholarly purposes. 
+
+This program is protected by the MIT License, copied from Choose A License: https://choosealicense.com/licenses/mit/
 
