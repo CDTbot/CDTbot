@@ -8,7 +8,7 @@ Essentially, the Analyzer averages the values on either side of the potential Di
 ## How to Use
 Detailed step-by-step operations instructions, with images, can be found at: 
 
-# Plain Text Instructions: 
+### Plain Text Instructions: 
 1. Select the desired testing signals in BioSigRZ. This can be done by selecting History > Access Record File.
 2. Once the BioSigRZ screen populates with the signals, select as many as you would like to analyze. 
 3. History > Export to .csv
@@ -46,19 +46,19 @@ If you used this program in your research, please cite it! We would love nothing
 Source code can be found at: 
 
 ## Credits
-# Dev Team:
+### Dev Team:
 	Murray Bartho
 	Patrick Atkinson, Ph.D.
 	Anthony Ricci, Ph.D.
 
-# Functions Used:
+### Functions Used:
 	Noam Greenboim (2019). RemoveSheet123 - remove default Excel sheets (https://www.mathworks.com/matlabcentral/fileexchange/50371-			removesheet123-remove-default-excel-sheets), MATLAB Central File Exchange. Retrieved December 9, 2019.
 
-# Funding:
+### Funding:
 	Stanford University School of Medicine: Department of Otolaryngology - Head & Neck Surgery
 	Stanford Initiative to Cure Hearing Loss (SICHL)
 
-# Acknowledgements:
+### Acknowledgements:
 	MathWorks and MATLAB
 	Stanford Computational Services and Bioinformatics Facility (CSBF)
 	Iconsflow.com
