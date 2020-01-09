@@ -38,7 +38,7 @@ Development Begins - November 2019
 
 Beta Testing - December 2019
 
-GitHub Rollout - January 2020
+GitHub First Commit - January 2020
 
 ## Contribute
 Please email all bugs / content suggestions / improvements to mbartho@stanford.edu. Thank you for your help! 
