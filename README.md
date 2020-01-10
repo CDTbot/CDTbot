@@ -56,7 +56,7 @@ Source code can be found at:
 	Anthony Ricci, Ph.D.
 
 ### Functions Used:
-	Noam Greenboim (2019). RemoveSheet123 - remove default Excel sheets (https://www.mathworks.com/matlabcentral/fileexchange/50371-			removesheet123-remove-default-excel-sheets), MATLAB Central File Exchange. Retrieved December 9, 2019.
+	Noam Greenboim (2019). RemoveSheet123 - remove default Excel sheets (https://www.mathworks.com/matlabcentral/fileexchange/50371removesheet123-remove-default-excel-sheets), MATLAB Central File Exchange. Retrieved December 9, 2019.
 
 ### Funding:
 	Stanford University School of Medicine: Department of Otolaryngology - Head & Neck Surgery
