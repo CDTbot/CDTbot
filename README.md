@@ -9,7 +9,9 @@ Essentially, the Analyzer averages the values on either side of the potential Di
 ## How to Use 
 Detailed step-by-step operations instructions, with images, can be found at: 
 
-Video Tutorial: https://youtu.be/3AhPbnBKEZs
+### Videos
+BioSigRZ DPOAE Analyzer Tutorial: https://youtu.be/3AhPbnBKEZs
+How to Generate .csv File in BioSigRZ: https://youtu.be/MTaayvbmQtc
 
 ### Plain Text Instructions: 
 1. Select the desired testing signals in BioSigRZ. This can be done by selecting History > Access Record File.
