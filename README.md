@@ -55,7 +55,7 @@ Please email all bugs / content suggestions / improvements to mbartho@stanford.e
 If you used this program in your research, please cite it! We would love nothing more than to see it used out in the wild. 
 
 ## Source Code
-Source code can be found at: 
+Source code can be found here: [on this githubpage](raw_app_code.txt)
 
 ## Credits
 ### Dev Team:
