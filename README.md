@@ -1,6 +1,9 @@
 # DPOAE-Analyzer
 This program takes user bias out of Distorted Product Otoacoustic Emission (DPOAE) data analysis. Previously, DPOAEs were "called" by eye, with a best guess. With DPOAE Analyzer, that uncertainty goes out the window. Be confidant in the statistical power of your DPOAE analysis with DPOAE Analyzer!
 
+## Help Out
+DPOAE Analyzer is still a baby. Please email all bugs / content suggestions / improvements to mbartho@stanford.edu. Thank you for your help! 
+
 
 ## High Level Overview
 ![Infographic diagram inserted here. Caption below.][infographic]
