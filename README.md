@@ -13,7 +13,7 @@ Essentially, the Analyzer averages the values on either side of the potential Di
 Detailed step-by-step operations instructions, with images, can be found at: 
 
 ### Videos
-BioSigRZ DPOAE Analyzer Tutorial: https://youtu.be/3AhPbnBKEZs
+DPOAE Analyzer Tutorial: https://youtu.be/3AhPbnBKEZs
 
 How to Generate .csv File in BioSigRZ: https://youtu.be/MTaayvbmQtc
 
@@ -84,4 +84,4 @@ The free subscription plan was used to develop the Headphone Mouse icon, to be u
 
 This program is protected by the MIT License, copied from Choose A License: https://choosealicense.com/licenses/mit/
 
-[infographic]: https://github.com/Murray-Bartho/BioSigRZ-DPOAE-Analyzer/blob/master/infographic.jpg "Infographic .jpg downloadable from home page of repository."
+[infographic]: https://github.com/Murray-Bartho/DPOAE-Analyzer/blob/master/infographic.jpg "Infographic .jpg downloadable from home page of repository."
