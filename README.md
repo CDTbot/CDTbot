@@ -59,7 +59,7 @@ If you used this program in your research, please cite it! We would love nothing
 
 ## Credits
 ### Dev Team:
-	Murray Bartho
+	Murray Bartho - Lead Developer
 	Patrick Atkinson, Ph.D.
 	Anthony Ricci, Ph.D.
 
