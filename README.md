@@ -1,6 +1,6 @@
 # DPOAE Analyzer
 
-### an automated DP Caller for TDT systems
+### An automated DP Caller for TDT systems
 ![MIT License](https://img.shields.io/github/license/Murray-Bartho/DPOAE-Analyzer)
 This program takes user bias out of Distorted Product Otoacoustic Emission (DPOAE) data analysis. Previously, DPOAEs were "called" by eye, with a best guess. With *DPOAE Analyzer*, that uncertainty goes out the window. Be confident in the statistical power of your DPOAE analysis!
 
