@@ -1,8 +1,10 @@
 # DPOAE-Analyzer
-This program takes user bias out of Distorted Product Otoacoustic Emission (DPOAE) data analysis. Previously, DPOAEs were "called" by eye, with a best guess. With DPOAE Analyzer, that uncertainty goes out the window. Be confident in the statistical power of your DPOAE analysis with DPOAE Analyzer!
+This program takes user bias out of Distorted Product Otoacoustic Emission (DPOAE) data analysis. Previously, DPOAEs were "called" by eye, with a best guess. With *DPOAE Analyzer*, that uncertainty goes out the window. Be confident in the statistical power of your DPOAE analysis with *DPOAE Analyzer*!
+
+*DPOAE Analyzer* is in the **alpha stage**, and there may be **critical fails or bugs**.
 
 ## Help Out
-DPOAE Analyzer is a work in progress. Please email all bugs / content suggestions / improvements to mbartho@stanford.edu. Thank you for your help! 
+*DPOAE Analyzer* is a work in progress. Please email all bugs / content suggestions / improvements to mbartho@stanford.edu. Thank you for your help! 
 
 
 ## High Level Overview
@@ -13,7 +15,7 @@ Essentially, the Analyzer averages the values on either side of the potential Di
 Detailed step-by-step operations instructions, with images, can be found at: 
 
 ### Videos
-DPOAE Analyzer Tutorial: https://youtu.be/3AhPbnBKEZs
+*DPOAE Analyzer* Tutorial: https://youtu.be/3AhPbnBKEZs
 
 How to Generate .csv File in BioSigRZ: https://youtu.be/MTaayvbmQtc
 
@@ -21,7 +23,7 @@ How to Generate .csv File in BioSigRZ: https://youtu.be/MTaayvbmQtc
 1. Select the desired testing signals in BioSigRZ. This can be done by selecting History > Access Record File.
 2. Once the BioSigRZ screen populates with the signals, select as many as you would like to analyze. 
 3. History > Export to .csv
-4. Open DPOAE Analyzer
+4. Open *DPOAE Analyzer*
 5. Import File > navigate to the .csv you just created. Click "Save."
 6. Run!
 7. If you would like to save your results, select "Download" and then select a location for the program to download an .xlsx file to. 
@@ -46,7 +48,7 @@ The Core Facilities team was pondering how to quickly and accurately determine D
 ## Build Status
 Development Begins - November 2019
 
-Beta Testing - December 2019
+Alpha Testing - December 2019
 
 GitHub First Commit - January 2020
 
