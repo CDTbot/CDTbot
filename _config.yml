@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+
+baseurl: "/blog_DA"
+url: "http://Murray-Bartho.github.io" 
