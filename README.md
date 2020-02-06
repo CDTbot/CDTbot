@@ -54,6 +54,8 @@ Alpha Testing - December 2019
 
 GitHub First Commit - January 2020
 
+Alpha Release - February 2020
+
 ## Contribute
 Please email all bugs / content suggestions / improvements to mbartho@stanford.edu. Thank you for your help! 
 
