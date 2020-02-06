@@ -1,8 +1,8 @@
 # DPOAE Analyzer
 
 ### An automated DP Caller for TDT systems
-![Semvar Release](https://img.shields.io/github/v/tag/Murray-Bartho/DPOAE-Analyzer?color=blueviolet)&nbsp;![Downloads](https://img.shields.io/github/downloads/Murray-Bartho/DPOAE-Analyzer/total)&nbsp;![Release Date](https://img.shields.io/github/release-date-pre/Murray-Bartho/DPOAE-Analyzer)&nbsp;![Language](https://img.shields.io/badge/Language-MATLAB-important)&nbsp;![Issues](https://img.shields.io/github/issues/Murray-Bartho/DPOAE-Analyzer)&nbsp;![Commits Since](https://img.shields.io/github/commits-since/Murray-Bartho/DPOAE-Analyzer/v0.1.0)&nbsp;![MIT License](https://img.shields.io/github/license/Murray-Bartho/DPOAE-Analyzer)
-![Repo Size](https://img.shields.io/github/repo-size/Murray-Bartho/DPOAE-Analyzer)&nbsp;[![DOI](https://zenodo.org/badge/232431204.svg)](https://zenodo.org/badge/latestdoi/232431204)&nbsp;
+![Semvar Release](https://img.shields.io/github/v/tag/Murray-Bartho/DPOAE-Analyzer?color=blueviolet)&nbsp;![Downloads](https://img.shields.io/github/downloads/Murray-Bartho/DPOAE-Analyzer/total?color=ff69b4)&nbsp;![Release Date](https://img.shields.io/github/release-date-pre/Murray-Bartho/DPOAE-Analyzer)&nbsp;![Language](https://img.shields.io/badge/Language-MATLAB-important)&nbsp;![Issues](https://img.shields.io/github/issues/Murray-Bartho/DPOAE-Analyzer)&nbsp;![Commits Since](https://img.shields.io/github/commits-since/Murray-Bartho/DPOAE-Analyzer/v0.1.0?color=9cf)&nbsp;![MIT License](https://img.shields.io/github/license/Murray-Bartho/DPOAE-Analyzer)
+![Repo Size](https://img.shields.io/github/repo-size/Murray-Bartho/DPOAE-Analyzer?color=yellow)&nbsp;[![DOI](https://zenodo.org/badge/232431204.svg)](https://zenodo.org/badge/latestdoi/232431204)&nbsp;
 
 This program takes user bias out of Distorted Product Otoacoustic Emission (DPOAE) data analysis. Previously, DPOAEs were "called" by eye, with a best guess. With *DPOAE Analyzer*, that uncertainty goes out the window. Be confident in the statistical power of your DPOAE analysis!
 
