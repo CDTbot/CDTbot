@@ -17,7 +17,7 @@ Essentially, the Analyzer averages the values on either side of the potential Di
 Detailed step-by-step operations instructions, with images, can be found at: 
 
 ### Videos
-*DPOAE Analyzer* Tutorial: https://youtu.be/3AhPbnBKEZs
+[*DPOAE Analyzer* Tutorial](https://youtu.be/3AhPbnBKEZs)
 
 How to Generate .csv File in BioSigRZ: https://youtu.be/MTaayvbmQtc
 
