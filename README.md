@@ -19,7 +19,7 @@ Detailed step-by-step operations instructions, with images, can be found at:
 ### Videos
 [*DPOAE Analyzer* Tutorial](https://youtu.be/3AhPbnBKEZs)
 
-How to Generate .csv File in BioSigRZ: https://youtu.be/MTaayvbmQtc
+[How to Generate .csv File in BioSigRZ](https://youtu.be/MTaayvbmQtc)
 
 ### Plain Text Instructions: 
 1. Select the desired testing signals in BioSigRZ. This can be done by selecting History > Access Record File.
