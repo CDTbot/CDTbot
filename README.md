@@ -73,7 +73,7 @@ If you used this program in your research, please cite it! We would love nothing
 
 It can be **cited using its DOI** as follows: 
 
-	Bartho et al. (2020). PLACEHOLDER: An Automated DP Caller for TDT Systems. doi:10.5281/zenodo.3644403. 
+> Bartho et al. (2020). PLACEHOLDER: An Automated DP Caller for TDT Systems. [doi:10.5281/zenodo.3644403](https://doi.org/10.5281/zenodo.3644403). 
 
 
 ## Source Code
