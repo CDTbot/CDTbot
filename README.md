@@ -64,7 +64,9 @@ GitHub First Commit - January 2020
 Alpha Release - February 2020
 
 ## Contribute
-Please email all bugs / content suggestions / improvements to mbartho@stanford.edu. Thank you for your help! 
+PLACEHOLDER has a [Code of Conduct](CODE_OF_CONDUCT.md) that offers guidelines for how to contribute. 
+
+Generally, please email all bugs / content suggestions / improvements to mbartho@stanford.edu. Thank you for your help! 
 
 If you used this program in your research, please cite it! We would love nothing more than to see it used out in the wild. 
 
