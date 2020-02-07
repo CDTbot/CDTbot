@@ -64,11 +64,17 @@ GitHub First Commit - January 2020
 Alpha Release - February 2020
 
 ## Contribute
-PLACEHOLDER has a [Code of Conduct](CODE_OF_CONDUCT.md) that offers guidelines for how to contribute. 
+Contributions are welcome! PLACEHOLDER has a [Code of Conduct](CODE_OF_CONDUCT.md) that offers guidelines for how to contribute. 
 
-Generally, please email all bugs / content suggestions / improvements to mbartho@stanford.edu. Thank you for your help! 
+Generally, emailing all bugs / content suggestions / improvements to mbartho@stanford.edu is a good course of action. Thank you for your help! 
 
+## Citing PLACEHOLDER
 If you used this program in your research, please cite it! We would love nothing more than to see it used out in the wild. 
+
+It can be **cited using its DOI** as follows: 
+
+	Bartho et al. (2020). PLACEHOLDER: An Automated DP Caller for TDT Systems. DOI: 10.5281/zenodo.3644403. 
+
 
 ## Source Code
 [Source code can be found here.](raw_app_code.txt)
