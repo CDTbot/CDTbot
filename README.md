@@ -18,9 +18,7 @@ Essentially, the Analyzer averages the values on either side of the potential Di
 
 ### No commas can be used in the Subject ID popup window of BioSigRZ. Using commas alters the exported .csv file, leaving it unreadable by PLACEHOLDER. 
 
-<img src="assets/application_commas_badexample.png" alt="hi" class="inline"/>
-
-<img src="assets/applications_nocommas_goodexample.png" alt="hi" class="inline"/>
+<img src="assets/application_commas_badexample.png" alt="hi" class="inline"/> <img src="assets/applications_nocommas_goodexample.png" alt="hi" class="inline"/>
 
 ## Tutorial 
 Detailed step-by-step operations instructions, with images, can be found at: 
