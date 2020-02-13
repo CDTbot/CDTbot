@@ -103,9 +103,6 @@ It can be **cited using its DOI** as follows:
 MATLAB by Mathworks 2009b, 2010a and 2019a were used in the development of this application. 
 MATLAB licensing was acquired through the academic institutional license provided by Stanford CSBF. 
 
-FREE Icon Maker by Iconsflow.com was used to develop the app icon. 
-The free subscription plan was used to develop the Headphone Mouse icon, to be used in non-commercial academic research or other not-for-profit scholarly purposes. 
-
 This program is protected by the MIT License, copied from Choose A License: https://choosealicense.com/licenses/mit/
 
 [infographic]: /infographic.jpg "Infographic .jpg downloadable from home page of repository."
