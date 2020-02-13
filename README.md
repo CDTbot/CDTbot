@@ -1,3 +1,5 @@
+<img src="assets/icons/App_Logo.jpg" alt="hi" class="inline"/>
+
 # DPOAE Analyzer
 
 ### An automated DP Caller for TDT systems
