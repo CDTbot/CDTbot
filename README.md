@@ -4,6 +4,8 @@
 ![Semvar Release](https://img.shields.io/github/v/tag/Murray-Bartho/DPOAE-Analyzer?color=blueviolet)&nbsp;![Downloads](https://img.shields.io/github/downloads/Murray-Bartho/DPOAE-Analyzer/total?color=ff69b4)&nbsp;![Release Date](https://img.shields.io/github/release-date-pre/Murray-Bartho/DPOAE-Analyzer)&nbsp;![Language](https://img.shields.io/badge/Language-MATLAB-important)&nbsp;![Issues](https://img.shields.io/github/issues/Murray-Bartho/DPOAE-Analyzer)&nbsp;![Commits Since](https://img.shields.io/github/commits-since/Murray-Bartho/DPOAE-Analyzer/v0.1.0?color=9cf)&nbsp;![MIT License](https://img.shields.io/github/license/Murray-Bartho/DPOAE-Analyzer)
 ![Repo Size](https://img.shields.io/github/repo-size/Murray-Bartho/DPOAE-Analyzer?color=yellow)&nbsp;[![DOI](https://zenodo.org/badge/232431204.svg)](https://zenodo.org/badge/latestdoi/232431204)&nbsp;
 
+<img src="assets/Icons/App_Logo.png" alt="hi" class="inline"/>
+
 This program takes user bias out of Distorted Product Otoacoustic Emission (DPOAE) data analysis. Previously, DPOAEs were "called" by eye, with a best guess. With *DPOAE Analyzer*, that uncertainty goes out the window. Be confident in the statistical power of your DPOAE analysis!
 
 *DPOAE Analyzer* is in the **alpha stage**, and there may be **critical fails or bugs**. Please email all bugs / content suggestions / improvements to mbartho@stanford.edu. Thank you for your help! 
@@ -100,9 +102,6 @@ It can be **cited using its DOI** as follows:
 ## Licenses
 MATLAB by Mathworks 2009b, 2010a and 2019a were used in the development of this application. 
 MATLAB licensing was acquired through the academic institutional license provided by Stanford CSBF. 
-
-FREE Icon Maker by Iconsflow.com was used to develop the app icon. 
-The free subscription plan was used to develop the Headphone Mouse icon, to be used in non-commercial academic research or other not-for-profit scholarly purposes. 
 
 This program is protected by the MIT License, copied from Choose A License: https://choosealicense.com/licenses/mit/
 
