@@ -24,10 +24,6 @@ Essentially, the bot averages the values on either side of the potential Distort
 
 <img src="assets/application_commas_badexample.png" alt="hi" class="inline"/> <img src="assets/applications_nocommas_goodexample.png" alt="hi" class="inline"/>
 
-## Download
-
-The most recent release of CDTbot [can be found here.](https://github.com/CDTbot/CDTbot/releases)
-
 ## Tutorial 
 Detailed step-by-step operations instructions, with images, can be found at: 
 
@@ -46,9 +42,10 @@ Detailed step-by-step operations instructions, with images, can be found at:
 7. If you would like to save your results, select "Download" and then select a location for the program to download an .xlsx file to. 
 
 ## Installation
-Detailed step-by-step installation instructions can be found in the Matlab Runtime Readme.txt included in the download files. 
 
-To download, download the MATLAB app installer and follow the command prompts. If you do not have MATLAB Runtime previously installed, expect the download to take slightly longer (~5 mins). Make sure to tick the "Create Desktop Shortcut" box for easy access. 
+The most recent release of CDTbot [can be found here.](https://github.com/CDTbot/CDTbot/releases)
+
+To install, download the .zip file and open the .exe install wizard. Detailed step-by-step installation instructions can be found in the Matlab Runtime Readme.txt included in the download files. If you do not have MATLAB Runtime previously installed, expect the download to take slightly longer (~15 mins). Make sure to tick the "Create Desktop Shortcut" box for easy access. 
 
 ## Detailed Code Explanation
 The code analyses the .csv file provided by BioSigRZ. In said .csv file, there are 2048 columns of acoustic data, going from 0 hz to 97656.3 hz. The bin size of each data column is then determined by dividing the total frequency (97656.3) by the number of columns (2048). The .csv file also gives the hz at which the DP will be located at for each frequency. That value is then divided by the bin size, and rounded to the nearest whole number, to arrive at the column of the given DP. Then, 10 values from either side of the DP, not including the 2 values directly adjacent to the DP, are averaged to create the noise floor. The standard deviation of these 20 values is also calculated. If the DP value is 2 times greater than or equal to the standard deviation above the noise floor (>= ((2*std.dev.)+ noise floor average)), then the DP is considered statistically significant, and assigned a value of 1. If this threshold is not met, the DP is not considered statistically significant, and is assigned a value of 0.
