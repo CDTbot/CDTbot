@@ -97,7 +97,6 @@ It can be **cited using its DOI** as follows:
 ### Acknowledgements:
 	MathWorks and MATLAB
 	Stanford Computational Services and Bioinformatics Facility (CSBF)
-	Iconsflow.com
 
 ## Licenses
 MATLAB by Mathworks 2009b, 2010a and 2019a were used in the development of this application. 
