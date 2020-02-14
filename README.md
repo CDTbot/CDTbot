@@ -26,7 +26,7 @@ Essentially, the bot averages the values on either side of the potential Distort
 
 ## Download
 
-	The most recent release of CDTbot [can be found here.](https://github.com/CDTbot/CDTbot/releases)
+The most recent release of CDTbot [can be found here.](https://github.com/CDTbot/CDTbot/releases)
 
 ## Tutorial 
 Detailed step-by-step operations instructions, with images, can be found at: 
