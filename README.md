@@ -24,6 +24,10 @@ Essentially, the bot averages the values on either side of the potential Distort
 
 <img src="assets/application_commas_badexample.png" alt="hi" class="inline"/> <img src="assets/applications_nocommas_goodexample.png" alt="hi" class="inline"/>
 
+## Download
+
+	The most recent release of CDTbot [can be found here.](https://github.com/CDTbot/CDTbot/releases)
+
 ## Tutorial 
 Detailed step-by-step operations instructions, with images, can be found at: 
 
