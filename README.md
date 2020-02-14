@@ -4,7 +4,9 @@
 ![Semvar Release](https://img.shields.io/github/v/tag/Murray-Bartho/DPOAE-Analyzer?color=blueviolet)&nbsp;![Downloads](https://img.shields.io/github/downloads/Murray-Bartho/DPOAE-Analyzer/total?color=ff69b4)&nbsp;![Release Date](https://img.shields.io/github/release-date-pre/Murray-Bartho/DPOAE-Analyzer)&nbsp;![Language](https://img.shields.io/badge/Language-MATLAB-important)&nbsp;![Issues](https://img.shields.io/github/issues/Murray-Bartho/DPOAE-Analyzer)&nbsp;![Commits Since](https://img.shields.io/github/commits-since/Murray-Bartho/DPOAE-Analyzer/v0.1.0?color=9cf)&nbsp;![MIT License](https://img.shields.io/github/license/Murray-Bartho/DPOAE-Analyzer)
 ![Repo Size](https://img.shields.io/github/repo-size/Murray-Bartho/DPOAE-Analyzer?color=yellow)&nbsp;[![DOI](https://zenodo.org/badge/232431204.svg)](https://zenodo.org/badge/latestdoi/232431204)&nbsp;
 
-<img src="assets/Icons/App_Logo.png" alt="hi" class="inline"/>
+<p align="center">
+	<img src="assets/Icons/App_Logo.png" width="512" height="512" alt="hi" class="inline"/>
+</p>
 
 This program takes user bias out of Distorted Product Otoacoustic Emission (DPOAE) data analysis. Previously, DPOAEs were "called" by eye, with a best guess. With *CDTbot*, that uncertainty goes out the window. Be confident in the statistical power of your DPOAE analysis!
 
