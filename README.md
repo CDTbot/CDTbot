@@ -18,7 +18,7 @@ Essentially, the bot averages the values on either side of the potential Distort
 ## One Important Note
 <img src="assets/application_nocommas_pic.png" alt="hi" class="inline"/>
 
-### No commas can be used in the Subject ID popup window of BioSigRZ. Using commas alters the exported .csv file, leaving it unreadable by CDTbot. 
+### No commas can be used in the Subject ID popup window of BioSigRZ. Using commas alters the exported .csv file, leaving it unreadable by *CDTbot*. 
 
 <img src="assets/application_commas_badexample.png" alt="hi" class="inline"/> <img src="assets/applications_nocommas_goodexample.png" alt="hi" class="inline"/>
 
