@@ -76,7 +76,7 @@ Generally, emailing all bugs / content suggestions / improvements to mbartho@sta
 ## Citing CDTbot
 If you used this program in your research, please cite it! We would love nothing more than to see it used out in the wild. 
 
-All versions of CDTbot can be **cited using its DOI** as seen below. Citations for individual versions can be found in the correcsponding Release notes.     
+All versions of CDTbot can be **cited using its DOI** as seen below. Citations for individual versions can be found in the corresponding Release notes.     
 
 > Bartho et al. (2020). CDTbot: Quickly analyze the 2f1-f2 cubic difference tone distortion product. [doi:10.5281/zenodo.3644403](https://doi.org/10.5281/zenodo.3644403). 
 
