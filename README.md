@@ -31,7 +31,7 @@ Detailed step-by-step operations instructions, with images, can be found at:
 ### Videos
 [*CDTbot* Tutorial](https://youtu.be/3AhPbnBKEZs)
 
-[How to Download CDTbot from Github](https://youtu.be/aYDFeCgHa7w)
+[How to Download *CDTbot* from Github](https://youtu.be/aYDFeCgHa7w)
 
 [How to Generate .csv File in BioSigRZ](https://youtu.be/MTaayvbmQtc)
 
